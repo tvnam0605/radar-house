@@ -1,0 +1,18 @@
+# Web framework
+streamlit==1.36.0
+
+# Xử lý dữ liệu
+pandas==2.2.2
+numpy==1.26.4
+
+# Vẽ biểu đồ
+plotly==5.22.0
+matplotlib==3.9.0
+seaborn==0.13.2
+
+# Đọc file Excel/CSV
+openpyxl==3.1.5
+xlrd==2.0.1
+
+# Tiện ích khác (nếu cần xử lý ngày giờ, export log)
+python-dateutil==2.9.0.post0
